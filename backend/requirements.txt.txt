@@ -1,0 +1,16 @@
+Summary of What You've Accomplished:
+Django API Endpoints: You created and exposed two API endpoints in Django:
+
+/api/hello/ that returns a "Hello from Django!" message.
+/api/datetime/ that returns the current date and time.
+React Frontend: You developed a React component that:
+
+Fetches data from the Django API endpoints.
+Displays the fetched data (message and current datetime) on the web page.
+CORS Configuration: You correctly configured CORS in Django to allow your React app to communicate with the Django backend.
+
+FE:
+C:\Users\mayur\AppData\Roaming\my-website
+
+BE:
+C:\Users\mayur\backend
